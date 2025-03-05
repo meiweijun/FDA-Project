@@ -87,10 +87,10 @@ https://github.com/meiweijun/FDA_Project.git
 
 ## 🧪 Compliance Validation
 FDA Part 11 Requirement	Implementation
-§11.10(a): Limited Access	Azure AD RBAC + SharePoint Permissions
-§11.50: Audit Trails	 Audit Logs with IP/User/Timestamp
-§11.70: Signature Binding	SHA-256 Hash + PDF/A Metadata Embedding
-§11.200: Electronic Copies	Immutable PDF/A in SharePoint
+- §11.10(a): Limited Access	Azure AD RBAC + SharePoint Permissions
+- §11.50: Audit Trails	 Audit Logs with IP/User/Timestamp
+- §11.70: Signature Binding	SHA-256 Hash + PDF/A Metadata Embedding
+- §11.200: Electronic Copies	Immutable PDF/A in SharePoint
 
 Disclaimer: This template requires customization for specific organizational policies and regulatory environments.
 
