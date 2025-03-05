@@ -46,6 +46,19 @@ graph TD
 ```
 ## 🚀 Getting Started
 **Prerequisites**
+Prerequisites
+- Microsoft Power Platform Environment (Production)
+- Azure Subscription (for Azure Functions/Blob Storage)
+- SharePoint Online Document Library
+- Azure AD App Registration (with User.Read, Files.ReadWrite permissions)
 
+## Setup Guide
+1. Clone Repository
+```
+git clone https://github.com/your-org/fda-part11-workflow.git
+```
+
+2. 
+3. 
 
 
