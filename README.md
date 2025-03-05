@@ -3,6 +3,9 @@
 [![Power Platform](https://img.shields.io/badge/Power_Platform-OK-green)](https://powerplatform.microsoft.com/)
 [![License](https://img.shields.io/badge/License-MIT-orange)](LICENSE)
 
+- **Applicable scenario**: Compliance of document approval for medical equipment companies
+- **Developer**: Microsoft certified Power Platform expert, previously built compliance systems for Siemens Healthineers
+- **Consult now for customized solutions**: [Upwork homepage link]
 A secure, auditable, and FDA Part 11-compliant electronic signature approval workflow built on Microsoft Power Platform. This solution ensures **data integrity**, **non-repudiation**, and **regulatory compliance** for critical processes in life sciences and regulated industries.
 
 ---
