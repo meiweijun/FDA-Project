@@ -5,8 +5,9 @@
 
 - **Applicable scenario**: Compliance of document approval for medical equipment companies
 - **Developer**: Microsoft certified Power Platform expert, previously built compliance systems for Siemens Healthineers
-- **Consult now for customized solutions**: [Upwork homepage link]
-A secure, auditable, and FDA Part 11-compliant electronic signature approval workflow built on Microsoft Power Platform. This solution ensures **data integrity**, **non-repudiation**, and **regulatory compliance** for critical processes in life sciences and regulated industries.
+- **Consult now for customized solutions**: [Upwork homepage link](https://www.upwork.com/freelancers/martinm190)
+
+  A secure, auditable, and FDA Part 11-compliant electronic signature approval workflow built on Microsoft Power Platform. This solution ensures **data integrity**, **non-repudiation**, and **regulatory compliance** for critical processes in life sciences and regulated industries.
 
 ---
 
